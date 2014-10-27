@@ -1,0 +1,21 @@
+WTH(6)                         eeeeeta's stuff                        WTH(6)
+
+NAME
+     wth — define an unknown acronym or slang term
+
+SYNOPSIS
+     wth [is] term
+
+DESCRIPTION
+     The wth utility utilises Urban Dictionary to define slang terms and
+     acronyms.
+
+INSTALLATION
+     npm install -g wth
+
+SEE ALSO
+     wtf(6)
+
+η                          October 27, 2014                              η
+
+
