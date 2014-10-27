@@ -1,6 +1,6 @@
 {
   "name": "wth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "What The Hell - for when wtf(6) doesn't work properly.",
   "main": "wth.js",
   "scripts": {

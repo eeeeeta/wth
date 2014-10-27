@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*
  * What The Hell - for when wtf(6) doesn't work properly.
  *
