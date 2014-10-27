@@ -1,0 +1,18 @@
+{
+  "name": "wth",
+  "version": "1.0.0",
+  "description": "What The Hell - for when wtf(6) doesn't work properly.",
+  "main": "wth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "wth": "./wth.js"
+  },
+  "author": "eeeeeta",
+  "license": "ISC",
+  "dependencies": {
+    "nomnom": "^1.8.0",
+    "urban": "^0.2.3"
+  }
+}
